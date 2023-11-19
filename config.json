@@ -1,0 +1,253 @@
+{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "actual",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "company",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "date_closed",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "date_created",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "date_of_download",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "description",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "exp_from",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "exp_to",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "job_format",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "job_type",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "languages",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "level",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "salary_from",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "salary_to",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "skills",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "source_vac",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "status",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "towns",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "vacancy_id",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "vacancy_name",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "core_fact_table",
+        "column": "version_vac",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "actual",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "company",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "date_closed",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "date_created",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "date_of_download",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "description",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "exp_from",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "exp_to",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "job_format",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "job_type",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "languages",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "level",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "salary_from",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "salary_to",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "skills",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "source_vac",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "status",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "towns",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "vacancy_id",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "vacancy_name",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "del_vacancy_core",
+        "column": "version_vac",
+        "type": "integer"
+    }
+}
