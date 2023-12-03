@@ -1,0 +1,505 @@
+{
+    "vacancy": {
+        "table": "archive_experience_vacancies",
+        "column": "experience_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_experience_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_job_formats_vacancies",
+        "column": "job_format_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_job_formats_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_job_types_vacancies",
+        "column": "job_type_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_job_types_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_languages_vacancies",
+        "column": "language_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_languages_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_skills_vacancies",
+        "column": "skill_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_skills_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_specialities_skills",
+        "column": "skill_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_specialities_skills",
+        "column": "spec_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_specialities_vacancies",
+        "column": "spec_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_specialities_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_towns_vacancies",
+        "column": "town_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_towns_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "company_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "description",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "experience_from",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "experience_to",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "publicated_at",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "salary_from",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "salary_to",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "source_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "url",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "archive_vacancies",
+        "column": "version",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "companies",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "companies",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "control_df",
+        "column": "cleaner_description",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "control_df",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "control_df",
+        "column": "tag",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "ds_search",
+        "column": "id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "ds_search",
+        "column": "vector",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "experience",
+        "column": "exp_from",
+        "type": "numeric"
+    }
+}{
+    "vacancy": {
+        "table": "experience",
+        "column": "exp_to",
+        "type": "numeric"
+    }
+}{
+    "vacancy": {
+        "table": "experience",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "experience_vacancies",
+        "column": "experience_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "experience_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "job_formats",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "job_formats",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "job_formats_vacancies",
+        "column": "job_format_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "job_formats_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "job_types",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "job_types",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "job_types_vacancies",
+        "column": "job_type_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "job_types_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "languages",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "languages",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "languages_vacancies",
+        "column": "language_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "languages_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "skills",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "skills",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "skills_vacancies",
+        "column": "skill_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "skills_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "sources",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "sources",
+        "column": "raw_table_name",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "sources",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "specialities",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "specialities",
+        "column": "tag",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "specialities",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "specialities_skills",
+        "column": "skill_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "specialities_skills",
+        "column": "spec_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "specialities_vacancies",
+        "column": "spec_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "specialities_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "towns",
+        "column": "clear_title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "towns",
+        "column": "id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "towns",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "towns_vacancies",
+        "column": "town_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "towns_vacancies",
+        "column": "vacancy_id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "company_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "description",
+        "type": "text"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "experience_from",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "experience_to",
+        "type": "smallint"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "id",
+        "type": "bigint"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "publicated_at",
+        "type": "date"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "salary_from",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "salary_to",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "source_id",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "title",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "url",
+        "type": "character varying"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies",
+        "column": "version",
+        "type": "integer"
+    }
+}{
+    "vacancy": {
+        "table": "vacancies_max_id",
+        "column": "max_id",
+        "type": "integer"
+    }
+}
